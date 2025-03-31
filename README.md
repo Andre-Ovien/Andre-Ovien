@@ -5,9 +5,6 @@
 
 ### 📫 Connect with me:
 - 🐦 [Twitter](https://x.com/Aendy_x?t=vDMjUMsa_I93vDkOxPJV_g&s=09)
-- 💼 [LinkedIn](www.linkedin.com/in/
-andre-ovien-121309272
-)
 
 ### 🔧 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
