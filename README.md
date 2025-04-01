@@ -1,6 +1,6 @@
 # Hi there, I'm Andre 👋
 
-💻 **Aspiring Backend Developer** | 🐍 **Python & Django Enthusiast**  
+💻 **Backend Developer** | 🐍 **Python & Django Enthusiast**  
 🚀 Building and learning **every day**  
 
 ### 📫 Connect with me:
